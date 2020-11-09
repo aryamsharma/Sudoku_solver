@@ -1,2 +1,1 @@
-# Sudoku_solver
-I mean it solves sudoku's??? What else do you think??
+I mean it solves puzzles I guess?? Yes I know it's bad I stayed up all night working on this
